@@ -1,0 +1,2 @@
+# skibatech
+GitHub Pages
